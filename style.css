@@ -51,7 +51,7 @@ input[type='password'] {
 }
 button {
     background-color: var(--btn-color);
-    box-shadow: 5px 5px 4em var(--btn-shadow);
+    // box-shadow: 5px 5px 4em var(--btn-shadow);
     color: var(--btn-txt-color);
     border: none;
     border-radius: 0.2rem;
